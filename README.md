@@ -2,6 +2,8 @@
 
 # tampermonkey插件
 
+forked原仓库: https://gitee.com/qq34347476/tampermonkey 
+
 ### Zhe's Scripts
 
 - 这里的脚本只是自己学习 js 的一个实践
